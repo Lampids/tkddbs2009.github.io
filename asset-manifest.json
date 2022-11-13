@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.fc4e1263.css",
-    "main.js": "./static/js/main.bb237b17.js",
+    "main.js": "./static/js/main.fd7c8cb7.js",
     "static/media/SCDream6.otf": "./static/media/SCDream6.4df12ee03e70b6326c25.otf",
     "static/media/vR.jpg": "./static/media/vR.475b058edf62f916f883.jpg",
     "static/media/Sealife.jpg": "./static/media/Sealife.7daecedaf72ca58a649d.jpg",
@@ -17,10 +17,10 @@
     "static/media/NGlogo.png": "./static/media/NGlogo.17bef04dc6153a532fd1.png",
     "index.html": "./index.html",
     "main.fc4e1263.css.map": "./static/css/main.fc4e1263.css.map",
-    "main.bb237b17.js.map": "./static/js/main.bb237b17.js.map"
+    "main.fd7c8cb7.js.map": "./static/js/main.fd7c8cb7.js.map"
   },
   "entrypoints": [
     "static/css/main.fc4e1263.css",
-    "static/js/main.bb237b17.js"
+    "static/js/main.fd7c8cb7.js"
   ]
 }

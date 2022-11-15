@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.d0ed7617.css",
-    "main.js": "./static/js/main.fd7c8cb7.js",
+    "main.css": "./static/css/main.0052936b.css",
+    "main.js": "./static/js/main.e634734c.js",
     "static/media/SCDream6.otf": "./static/media/SCDream6.4df12ee03e70b6326c25.otf",
-    "static/media/vR.jpg": "./static/media/vR.475b058edf62f916f883.jpg",
+    "static/media/News1.jpg": "./static/media/News1.475b058edf62f916f883.jpg",
     "static/media/Sealife.jpg": "./static/media/Sealife.7daecedaf72ca58a649d.jpg",
+    "static/media/News3.jpg": "./static/media/News3.41627feb28730cb20bad.jpg",
     "static/media/history.jpg": "./static/media/history.e578877c668eb594c21f.jpg",
     "static/media/OurSpace.jpg": "./static/media/OurSpace.e8eb0f8cf3d036345fc4.jpg",
+    "static/media/News2.jpg": "./static/media/News2.e28d0570ca34e49ca1b8.jpg",
+    "static/media/Storeimg.jpg": "./static/media/Storeimg.cb4697a0a87047b62ed3.jpg",
     "static/media/LastFly.jpg": "./static/media/LastFly.455de83b75186753231c.jpg",
     "static/media/jq.png": "./static/media/jq.bc29175c940824a4f20b.png",
     "static/media/react.png": "./static/media/react.25b95defdc3d7475af85.png",
+    "static/media/News4.jpg": "./static/media/News4.f51cf97ae3097330541d.jpg",
     "static/media/mylogo.png": "./static/media/mylogo.92940dd3305be97bec6b.png",
     "static/media/html.png": "./static/media/html.009a61ca48e73444c7ed.png",
     "static/media/css.png": "./static/media/css.6b1c8a45e0f52de346d2.png",
     "static/media/ps.png": "./static/media/ps.8569bb62bb47bd1b23e5.png",
     "static/media/NGlogo.png": "./static/media/NGlogo.17bef04dc6153a532fd1.png",
     "index.html": "./index.html",
-    "main.d0ed7617.css.map": "./static/css/main.d0ed7617.css.map",
-    "main.fd7c8cb7.js.map": "./static/js/main.fd7c8cb7.js.map"
+    "main.0052936b.css.map": "./static/css/main.0052936b.css.map",
+    "main.e634734c.js.map": "./static/js/main.e634734c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0ed7617.css",
-    "static/js/main.fd7c8cb7.js"
+    "static/css/main.0052936b.css",
+    "static/js/main.e634734c.js"
   ]
 }

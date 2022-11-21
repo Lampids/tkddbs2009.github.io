@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.b1187ba4.css",
-    "main.js": "./static/js/main.9a6a171c.js",
+    "main.css": "./static/css/main.19600bee.css",
+    "main.js": "./static/js/main.119c3d0f.js",
     "static/media/SCDream6.otf": "./static/media/SCDream6.4df12ee03e70b6326c25.otf",
     "static/media/News1.jpg": "./static/media/News1.475b058edf62f916f883.jpg",
     "static/media/Sealife.jpg": "./static/media/Sealife.7daecedaf72ca58a649d.jpg",
     "static/media/News3.jpg": "./static/media/News3.41627feb28730cb20bad.jpg",
     "static/media/history.jpg": "./static/media/history.e578877c668eb594c21f.jpg",
+    "static/media/channel_main.jpg": "./static/media/channel_main.d0ff0ec51db9176afccb.jpg",
     "static/media/OurSpace.jpg": "./static/media/OurSpace.e8eb0f8cf3d036345fc4.jpg",
     "static/media/channel.jpg": "./static/media/channel.0f837ef1de48578dbe31.jpg",
     "static/media/News2.jpg": "./static/media/News2.e28d0570ca34e49ca1b8.jpg",
@@ -25,12 +26,13 @@
     "static/media/ps.png": "./static/media/ps.8569bb62bb47bd1b23e5.png",
     "static/media/NGlogo.png": "./static/media/NGlogo.17bef04dc6153a532fd1.png",
     "static/media/Magazine_logo.png": "./static/media/Magazine_logo.15f421ea53dfe38cc44f.png",
+    "static/media/Cheannl_logo_w.png": "./static/media/Cheannl_logo_w.b821efe1ba95d4c327f5.png",
     "index.html": "./index.html",
-    "main.b1187ba4.css.map": "./static/css/main.b1187ba4.css.map",
-    "main.9a6a171c.js.map": "./static/js/main.9a6a171c.js.map"
+    "main.19600bee.css.map": "./static/css/main.19600bee.css.map",
+    "main.119c3d0f.js.map": "./static/js/main.119c3d0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1187ba4.css",
-    "static/js/main.9a6a171c.js"
+    "static/css/main.19600bee.css",
+    "static/js/main.119c3d0f.js"
   ]
 }

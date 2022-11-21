@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.66c746c8.css",
-    "main.js": "./static/js/main.491b3ad7.js",
+    "main.css": "./static/css/main.b1187ba4.css",
+    "main.js": "./static/js/main.9a6a171c.js",
     "static/media/SCDream6.otf": "./static/media/SCDream6.4df12ee03e70b6326c25.otf",
     "static/media/News1.jpg": "./static/media/News1.475b058edf62f916f883.jpg",
     "static/media/Sealife.jpg": "./static/media/Sealife.7daecedaf72ca58a649d.jpg",
@@ -26,11 +26,11 @@
     "static/media/NGlogo.png": "./static/media/NGlogo.17bef04dc6153a532fd1.png",
     "static/media/Magazine_logo.png": "./static/media/Magazine_logo.15f421ea53dfe38cc44f.png",
     "index.html": "./index.html",
-    "main.66c746c8.css.map": "./static/css/main.66c746c8.css.map",
-    "main.491b3ad7.js.map": "./static/js/main.491b3ad7.js.map"
+    "main.b1187ba4.css.map": "./static/css/main.b1187ba4.css.map",
+    "main.9a6a171c.js.map": "./static/js/main.9a6a171c.js.map"
   },
   "entrypoints": [
-    "static/css/main.66c746c8.css",
-    "static/js/main.491b3ad7.js"
+    "static/css/main.b1187ba4.css",
+    "static/js/main.9a6a171c.js"
   ]
 }

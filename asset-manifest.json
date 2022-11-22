@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.19600bee.css",
-    "main.js": "./static/js/main.119c3d0f.js",
+    "main.css": "./static/css/main.c973f339.css",
+    "main.js": "./static/js/main.c0ccd487.js",
     "static/media/SCDream6.otf": "./static/media/SCDream6.4df12ee03e70b6326c25.otf",
     "static/media/News1.jpg": "./static/media/News1.475b058edf62f916f883.jpg",
     "static/media/Sealife.jpg": "./static/media/Sealife.7daecedaf72ca58a649d.jpg",
@@ -15,24 +15,32 @@
     "static/media/LastFly.jpg": "./static/media/LastFly.455de83b75186753231c.jpg",
     "static/media/jq.png": "./static/media/jq.bc29175c940824a4f20b.png",
     "static/media/react.png": "./static/media/react.25b95defdc3d7475af85.png",
+    "static/media/channel_img2.jpg": "./static/media/channel_img2.824e8ff7c275b64aba26.jpg",
     "static/media/News4.jpg": "./static/media/News4.f51cf97ae3097330541d.jpg",
     "static/media/magazine_img2.jpg": "./static/media/magazine_img2.cd53b58282cdf4f7745e.jpg",
     "static/media/magazine_img1.jpg": "./static/media/magazine_img1.4af9bd4e35e70e35a433.jpg",
+    "static/media/channel_img5.jpg": "./static/media/channel_img5.811c5e0ca16fcf61f64c.jpg",
     "static/media/magazine_img3.jpg": "./static/media/magazine_img3.070b845cc3017fc91b8f.jpg",
+    "static/media/channel_img11.jpg": "./static/media/channel_img11.d398d3f2dba433778b21.jpg",
+    "static/media/channel_img4.jpg": "./static/media/channel_img4.032bb34de3b239d02663.jpg",
+    "static/media/channel_img7.jpg": "./static/media/channel_img7.23b87ee91b1f90d8f2f6.jpg",
+    "static/media/channel_img1.jpg": "./static/media/channel_img1.264ddad0edc5a6568601.jpg",
     "static/media/mylogo.png": "./static/media/mylogo.92940dd3305be97bec6b.png",
     "static/media/NG.jpg": "./static/media/NG.99ef164975c16a5753d5.jpg",
+    "static/media/channel_img3.jpg": "./static/media/channel_img3.72d59c2bf34475ae521d.jpg",
     "static/media/html.png": "./static/media/html.009a61ca48e73444c7ed.png",
     "static/media/css.png": "./static/media/css.6b1c8a45e0f52de346d2.png",
     "static/media/ps.png": "./static/media/ps.8569bb62bb47bd1b23e5.png",
+    "static/media/channel_img6.jpg": "./static/media/channel_img6.0d4af4d5465a01e91ce3.jpg",
     "static/media/NGlogo.png": "./static/media/NGlogo.17bef04dc6153a532fd1.png",
     "static/media/Magazine_logo.png": "./static/media/Magazine_logo.15f421ea53dfe38cc44f.png",
     "static/media/Cheannl_logo_w.png": "./static/media/Cheannl_logo_w.b821efe1ba95d4c327f5.png",
     "index.html": "./index.html",
-    "main.19600bee.css.map": "./static/css/main.19600bee.css.map",
-    "main.119c3d0f.js.map": "./static/js/main.119c3d0f.js.map"
+    "main.c973f339.css.map": "./static/css/main.c973f339.css.map",
+    "main.c0ccd487.js.map": "./static/js/main.c0ccd487.js.map"
   },
   "entrypoints": [
-    "static/css/main.19600bee.css",
-    "static/js/main.119c3d0f.js"
+    "static/css/main.c973f339.css",
+    "static/js/main.c0ccd487.js"
   ]
 }

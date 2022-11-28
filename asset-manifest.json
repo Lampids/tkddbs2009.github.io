@@ -1,24 +1,36 @@
 {
   "files": {
-    "main.css": "./static/css/main.826a49a7.css",
-    "main.js": "./static/js/main.84724b68.js",
+    "main.css": "./static/css/main.a8cadb65.css",
+    "main.js": "./static/js/main.10f82e39.js",
+    "static/media/char-img2.png": "./static/media/char-img2.b7e8c0e4b3ccf3a43136.png",
+    "static/media/char-img4.png": "./static/media/char-img4.ab3818fb68fe4a784d60.png",
+    "static/media/char-img1.png": "./static/media/char-img1.1a2b9f62cf7d48f14d5c.png",
     "static/media/SCDream6.otf": "./static/media/SCDream6.4df12ee03e70b6326c25.otf",
     "static/media/News1.jpg": "./static/media/News1.475b058edf62f916f883.jpg",
+    "static/media/char-img3.png": "./static/media/char-img3.e60bf71a6148e4152edd.png",
     "static/media/Sealife.jpg": "./static/media/Sealife.7daecedaf72ca58a649d.jpg",
     "static/media/News3.jpg": "./static/media/News3.41627feb28730cb20bad.jpg",
+    "static/media/slidebg2.jpg": "./static/media/slidebg2.9d397ba410604fe27d42.jpg",
     "static/media/history.jpg": "./static/media/history.e578877c668eb594c21f.jpg",
     "static/media/channel_main.jpg": "./static/media/channel_main.d0ff0ec51db9176afccb.jpg",
     "static/media/OurSpace.jpg": "./static/media/OurSpace.e8eb0f8cf3d036345fc4.jpg",
+    "static/media/slidebg4.jpg": "./static/media/slidebg4.c8e26594426d25597c1c.jpg",
     "static/media/channel.jpg": "./static/media/channel.0f837ef1de48578dbe31.jpg",
+    "static/media/slidebg3.jpg": "./static/media/slidebg3.98a153850f42ddff2b31.jpg",
     "static/media/News2.jpg": "./static/media/News2.e28d0570ca34e49ca1b8.jpg",
+    "static/media/slidebg1.jpg": "./static/media/slidebg1.1b6e5bc1d9d2374b0eab.jpg",
+    "static/media/video_thumbnail.jpg": "./static/media/video_thumbnail.52ab3cf0d6bb3044488d.jpg",
     "static/media/Storeimg.jpg": "./static/media/Storeimg.cb4697a0a87047b62ed3.jpg",
     "static/media/LastFly.jpg": "./static/media/LastFly.455de83b75186753231c.jpg",
     "static/media/Gensin_logo_old.png": "./static/media/Gensin_logo_old.3eec3eb7b3ff33ab18dd.png",
+    "static/media/event-name1.png": "./static/media/event-name1.7bd389676ee0c2eb451c.png",
     "static/media/jq.png": "./static/media/jq.bc29175c940824a4f20b.png",
+    "static/media/char-name2.png": "./static/media/char-name2.423dab00e6e209b3fdee.png",
     "static/media/react.png": "./static/media/react.25b95defdc3d7475af85.png",
     "static/media/channel_img2.jpg": "./static/media/channel_img2.824e8ff7c275b64aba26.jpg",
     "static/media/News4.jpg": "./static/media/News4.f51cf97ae3097330541d.jpg",
     "static/media/magazine_img2.jpg": "./static/media/magazine_img2.cd53b58282cdf4f7745e.jpg",
+    "static/media/char-name.png": "./static/media/char-name.c8c8c673a7cd948e8d37.png",
     "static/media/magazine_img1.jpg": "./static/media/magazine_img1.4af9bd4e35e70e35a433.jpg",
     "static/media/channel_img5.jpg": "./static/media/channel_img5.811c5e0ca16fcf61f64c.jpg",
     "static/media/magazine_img3.jpg": "./static/media/magazine_img3.070b845cc3017fc91b8f.jpg",
@@ -32,6 +44,7 @@
     "static/media/channel_img3.jpg": "./static/media/channel_img3.72d59c2bf34475ae521d.jpg",
     "static/media/html.png": "./static/media/html.009a61ca48e73444c7ed.png",
     "static/media/cafe.png": "./static/media/cafe.240a4a7fdeaab8b80800.png",
+    "static/media/video_play_button.png": "./static/media/video_play_button.9214633dd66c575734d8.png",
     "static/media/css.png": "./static/media/css.6b1c8a45e0f52de346d2.png",
     "static/media/ps.png": "./static/media/ps.8569bb62bb47bd1b23e5.png",
     "static/media/channel_img6.jpg": "./static/media/channel_img6.0d4af4d5465a01e91ce3.jpg",
@@ -41,11 +54,11 @@
     "static/media/Cheannl_logo_w.png": "./static/media/Cheannl_logo_w.b821efe1ba95d4c327f5.png",
     "static/media/youtube.png": "./static/media/youtube.528046063b19fbbb3767.png",
     "index.html": "./index.html",
-    "main.826a49a7.css.map": "./static/css/main.826a49a7.css.map",
-    "main.84724b68.js.map": "./static/js/main.84724b68.js.map"
+    "main.a8cadb65.css.map": "./static/css/main.a8cadb65.css.map",
+    "main.10f82e39.js.map": "./static/js/main.10f82e39.js.map"
   },
   "entrypoints": [
-    "static/css/main.826a49a7.css",
-    "static/js/main.84724b68.js"
+    "static/css/main.a8cadb65.css",
+    "static/js/main.10f82e39.js"
   ]
 }

@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.a8cadb65.css",
-    "main.js": "./static/js/main.10f82e39.js",
+    "main.css": "./static/css/main.ebb76fc4.css",
+    "main.js": "./static/js/main.b9470d67.js",
     "static/media/char-img2.png": "./static/media/char-img2.b7e8c0e4b3ccf3a43136.png",
     "static/media/char-img4.png": "./static/media/char-img4.ab3818fb68fe4a784d60.png",
     "static/media/char-img1.png": "./static/media/char-img1.1a2b9f62cf7d48f14d5c.png",
+    "static/media/paismug.png": "./static/media/paismug.ba76cf617cc1e1fbab48.png",
     "static/media/SCDream6.otf": "./static/media/SCDream6.4df12ee03e70b6326c25.otf",
     "static/media/News1.jpg": "./static/media/News1.475b058edf62f916f883.jpg",
     "static/media/char-img3.png": "./static/media/char-img3.e60bf71a6148e4152edd.png",
@@ -18,10 +19,15 @@
     "static/media/channel.jpg": "./static/media/channel.0f837ef1de48578dbe31.jpg",
     "static/media/slidebg3.jpg": "./static/media/slidebg3.98a153850f42ddff2b31.jpg",
     "static/media/News2.jpg": "./static/media/News2.e28d0570ca34e49ca1b8.jpg",
+    "static/media/Gensin_logo_w.png": "./static/media/Gensin_logo_w.d5954901b4bde24d041a.png",
     "static/media/slidebg1.jpg": "./static/media/slidebg1.1b6e5bc1d9d2374b0eab.jpg",
     "static/media/video_thumbnail.jpg": "./static/media/video_thumbnail.52ab3cf0d6bb3044488d.jpg",
     "static/media/Storeimg.jpg": "./static/media/Storeimg.cb4697a0a87047b62ed3.jpg",
+    "static/media/hoem_slide1.jpg": "./static/media/hoem_slide1.94f5e3a8d784f19f59b9.jpg",
     "static/media/LastFly.jpg": "./static/media/LastFly.455de83b75186753231c.jpg",
+    "static/media/news_bg.jpg": "./static/media/news_bg.34b7d94a0a76be1b9422.jpg",
+    "static/media/archive_bg.jpg": "./static/media/archive_bg.83ce92c595a636a05254.jpg",
+    "static/media/home_mslide1.jpg": "./static/media/home_mslide1.298a10de69cd4748d424.jpg",
     "static/media/Gensin_logo_old.png": "./static/media/Gensin_logo_old.3eec3eb7b3ff33ab18dd.png",
     "static/media/event-name1.png": "./static/media/event-name1.7bd389676ee0c2eb451c.png",
     "static/media/jq.png": "./static/media/jq.bc29175c940824a4f20b.png",
@@ -37,6 +43,9 @@
     "static/media/channel_img11.jpg": "./static/media/channel_img11.d398d3f2dba433778b21.jpg",
     "static/media/channel_img4.jpg": "./static/media/channel_img4.032bb34de3b239d02663.jpg",
     "static/media/channel_img7.jpg": "./static/media/channel_img7.23b87ee91b1f90d8f2f6.jpg",
+    "static/media/guide_img.jpg": "./static/media/guide_img.882d0134952d01deea44.jpg",
+    "static/media/element_img.png": "./static/media/element_img.3098a84a4aad9de2f41a.png",
+    "static/media/guide_img2.jpg": "./static/media/guide_img2.a8f1a09e0badd2058b99.jpg",
     "static/media/channel_img1.jpg": "./static/media/channel_img1.264ddad0edc5a6568601.jpg",
     "static/media/GI.jpg": "./static/media/GI.8c214ed31c8e3381c281.jpg",
     "static/media/mylogo.png": "./static/media/mylogo.92940dd3305be97bec6b.png",
@@ -46,19 +55,22 @@
     "static/media/cafe.png": "./static/media/cafe.240a4a7fdeaab8b80800.png",
     "static/media/video_play_button.png": "./static/media/video_play_button.9214633dd66c575734d8.png",
     "static/media/css.png": "./static/media/css.6b1c8a45e0f52de346d2.png",
+    "static/media/facebook_login.png": "./static/media/facebook_login.d585c7bc54e65440490e.png",
     "static/media/ps.png": "./static/media/ps.8569bb62bb47bd1b23e5.png",
     "static/media/channel_img6.jpg": "./static/media/channel_img6.0d4af4d5465a01e91ce3.jpg",
     "static/media/NGlogo_b.png": "./static/media/NGlogo_b.f11f23b3409f37339326.png",
     "static/media/NGlogo.png": "./static/media/NGlogo.17bef04dc6153a532fd1.png",
+    "static/media/gold_bar.png": "./static/media/gold_bar.ba5e175d2b19fa046df0.png",
+    "static/media/epicgames.png": "./static/media/epicgames.663cb1d925761fc37073.png",
     "static/media/Magazine_logo.png": "./static/media/Magazine_logo.15f421ea53dfe38cc44f.png",
     "static/media/Cheannl_logo_w.png": "./static/media/Cheannl_logo_w.b821efe1ba95d4c327f5.png",
     "static/media/youtube.png": "./static/media/youtube.528046063b19fbbb3767.png",
     "index.html": "./index.html",
-    "main.a8cadb65.css.map": "./static/css/main.a8cadb65.css.map",
-    "main.10f82e39.js.map": "./static/js/main.10f82e39.js.map"
+    "main.ebb76fc4.css.map": "./static/css/main.ebb76fc4.css.map",
+    "main.b9470d67.js.map": "./static/js/main.b9470d67.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8cadb65.css",
-    "static/js/main.10f82e39.js"
+    "static/css/main.ebb76fc4.css",
+    "static/js/main.b9470d67.js"
   ]
 }

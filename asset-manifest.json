@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ebb76fc4.css",
-    "main.js": "./static/js/main.b9470d67.js",
+    "main.css": "./static/css/main.18a1c068.css",
+    "main.js": "./static/js/main.3d4dcb1c.js",
     "static/media/char-img2.png": "./static/media/char-img2.b7e8c0e4b3ccf3a43136.png",
     "static/media/char-img4.png": "./static/media/char-img4.ab3818fb68fe4a784d60.png",
     "static/media/char-img1.png": "./static/media/char-img1.1a2b9f62cf7d48f14d5c.png",
@@ -24,6 +24,7 @@
     "static/media/video_thumbnail.jpg": "./static/media/video_thumbnail.52ab3cf0d6bb3044488d.jpg",
     "static/media/Storeimg.jpg": "./static/media/Storeimg.cb4697a0a87047b62ed3.jpg",
     "static/media/hoem_slide1.jpg": "./static/media/hoem_slide1.94f5e3a8d784f19f59b9.jpg",
+    "static/media/hoem_slide2.jpg": "./static/media/hoem_slide2.99c420e439c7612314b8.jpg",
     "static/media/LastFly.jpg": "./static/media/LastFly.455de83b75186753231c.jpg",
     "static/media/news_bg.jpg": "./static/media/news_bg.34b7d94a0a76be1b9422.jpg",
     "static/media/archive_bg.jpg": "./static/media/archive_bg.83ce92c595a636a05254.jpg",
@@ -45,9 +46,11 @@
     "static/media/channel_img7.jpg": "./static/media/channel_img7.23b87ee91b1f90d8f2f6.jpg",
     "static/media/guide_img.jpg": "./static/media/guide_img.882d0134952d01deea44.jpg",
     "static/media/element_img.png": "./static/media/element_img.3098a84a4aad9de2f41a.png",
+    "static/media/hoyoverse_logo.png": "./static/media/hoyoverse_logo.98f0a697c87bff008f2f.png",
     "static/media/guide_img2.jpg": "./static/media/guide_img2.a8f1a09e0badd2058b99.jpg",
     "static/media/channel_img1.jpg": "./static/media/channel_img1.264ddad0edc5a6568601.jpg",
     "static/media/GI.jpg": "./static/media/GI.8c214ed31c8e3381c281.jpg",
+    "static/media/hoyolab_bg.jpg": "./static/media/hoyolab_bg.cdec52296f2e6fdeb93d.jpg",
     "static/media/mylogo.png": "./static/media/mylogo.92940dd3305be97bec6b.png",
     "static/media/NG.jpg": "./static/media/NG.99ef164975c16a5753d5.jpg",
     "static/media/channel_img3.jpg": "./static/media/channel_img3.72d59c2bf34475ae521d.jpg",
@@ -64,13 +67,14 @@
     "static/media/epicgames.png": "./static/media/epicgames.663cb1d925761fc37073.png",
     "static/media/Magazine_logo.png": "./static/media/Magazine_logo.15f421ea53dfe38cc44f.png",
     "static/media/Cheannl_logo_w.png": "./static/media/Cheannl_logo_w.b821efe1ba95d4c327f5.png",
+    "static/media/board_talk.jpg": "./static/media/board_talk.349620b5d1cf24327973.jpg",
     "static/media/youtube.png": "./static/media/youtube.528046063b19fbbb3767.png",
     "index.html": "./index.html",
-    "main.ebb76fc4.css.map": "./static/css/main.ebb76fc4.css.map",
-    "main.b9470d67.js.map": "./static/js/main.b9470d67.js.map"
+    "main.18a1c068.css.map": "./static/css/main.18a1c068.css.map",
+    "main.3d4dcb1c.js.map": "./static/js/main.3d4dcb1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb76fc4.css",
-    "static/js/main.b9470d67.js"
+    "static/css/main.18a1c068.css",
+    "static/js/main.3d4dcb1c.js"
   ]
 }

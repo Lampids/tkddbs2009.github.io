@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.18a1c068.css",
-    "main.js": "./static/js/main.3d4dcb1c.js",
+    "main.css": "./static/css/main.d3714ea8.css",
+    "main.js": "./static/js/main.91cb6d1a.js",
     "static/media/char-img2.png": "./static/media/char-img2.b7e8c0e4b3ccf3a43136.png",
     "static/media/char-img4.png": "./static/media/char-img4.ab3818fb68fe4a784d60.png",
     "static/media/char-img1.png": "./static/media/char-img1.1a2b9f62cf7d48f14d5c.png",
@@ -16,14 +16,17 @@
     "static/media/channel_main.jpg": "./static/media/channel_main.d0ff0ec51db9176afccb.jpg",
     "static/media/OurSpace.jpg": "./static/media/OurSpace.e8eb0f8cf3d036345fc4.jpg",
     "static/media/slidebg4.jpg": "./static/media/slidebg4.c8e26594426d25597c1c.jpg",
+    "static/media/Login_bg.jpg": "./static/media/Login_bg.afad6b9e70b0508a7b18.jpg",
     "static/media/channel.jpg": "./static/media/channel.0f837ef1de48578dbe31.jpg",
     "static/media/slidebg3.jpg": "./static/media/slidebg3.98a153850f42ddff2b31.jpg",
     "static/media/News2.jpg": "./static/media/News2.e28d0570ca34e49ca1b8.jpg",
     "static/media/Gensin_logo_w.png": "./static/media/Gensin_logo_w.d5954901b4bde24d041a.png",
     "static/media/slidebg1.jpg": "./static/media/slidebg1.1b6e5bc1d9d2374b0eab.jpg",
     "static/media/video_thumbnail.jpg": "./static/media/video_thumbnail.52ab3cf0d6bb3044488d.jpg",
+    "static/media/hoem_slide4.jpg": "./static/media/hoem_slide4.f606f08f49dd2f88cac4.jpg",
     "static/media/Storeimg.jpg": "./static/media/Storeimg.cb4697a0a87047b62ed3.jpg",
     "static/media/hoem_slide1.jpg": "./static/media/hoem_slide1.94f5e3a8d784f19f59b9.jpg",
+    "static/media/hoem_slide3.jpg": "./static/media/hoem_slide3.fda8610eb842e0113aae.jpg",
     "static/media/hoem_slide2.jpg": "./static/media/hoem_slide2.99c420e439c7612314b8.jpg",
     "static/media/LastFly.jpg": "./static/media/LastFly.455de83b75186753231c.jpg",
     "static/media/news_bg.jpg": "./static/media/news_bg.34b7d94a0a76be1b9422.jpg",
@@ -31,6 +34,7 @@
     "static/media/home_mslide1.jpg": "./static/media/home_mslide1.298a10de69cd4748d424.jpg",
     "static/media/Gensin_logo_old.png": "./static/media/Gensin_logo_old.3eec3eb7b3ff33ab18dd.png",
     "static/media/event-name1.png": "./static/media/event-name1.7bd389676ee0c2eb451c.png",
+    "static/media/hoem_slide5.jpg": "./static/media/hoem_slide5.e5f488fd485c2ebab55f.jpg",
     "static/media/jq.png": "./static/media/jq.bc29175c940824a4f20b.png",
     "static/media/char-name2.png": "./static/media/char-name2.423dab00e6e209b3fdee.png",
     "static/media/react.png": "./static/media/react.25b95defdc3d7475af85.png",
@@ -44,6 +48,7 @@
     "static/media/channel_img11.jpg": "./static/media/channel_img11.d398d3f2dba433778b21.jpg",
     "static/media/channel_img4.jpg": "./static/media/channel_img4.032bb34de3b239d02663.jpg",
     "static/media/channel_img7.jpg": "./static/media/channel_img7.23b87ee91b1f90d8f2f6.jpg",
+    "static/media/hoyoverse_logo_b.png": "./static/media/hoyoverse_logo_b.18ef0d3a96f243de48e0.png",
     "static/media/guide_img.jpg": "./static/media/guide_img.882d0134952d01deea44.jpg",
     "static/media/element_img.png": "./static/media/element_img.3098a84a4aad9de2f41a.png",
     "static/media/hoyoverse_logo.png": "./static/media/hoyoverse_logo.98f0a697c87bff008f2f.png",
@@ -70,11 +75,11 @@
     "static/media/board_talk.jpg": "./static/media/board_talk.349620b5d1cf24327973.jpg",
     "static/media/youtube.png": "./static/media/youtube.528046063b19fbbb3767.png",
     "index.html": "./index.html",
-    "main.18a1c068.css.map": "./static/css/main.18a1c068.css.map",
-    "main.3d4dcb1c.js.map": "./static/js/main.3d4dcb1c.js.map"
+    "main.d3714ea8.css.map": "./static/css/main.d3714ea8.css.map",
+    "main.91cb6d1a.js.map": "./static/js/main.91cb6d1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.18a1c068.css",
-    "static/js/main.3d4dcb1c.js"
+    "static/css/main.d3714ea8.css",
+    "static/js/main.91cb6d1a.js"
   ]
 }

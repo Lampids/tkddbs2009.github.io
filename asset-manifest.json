@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.6cd6103a.css",
-    "main.js": "./static/js/main.6566d5ca.js",
+    "main.css": "./static/css/main.cbd4fbdd.css",
+    "main.js": "./static/js/main.943ea765.js",
     "static/media/char-img2.png": "./static/media/char-img2.b7e8c0e4b3ccf3a43136.png",
     "static/media/char-img4.png": "./static/media/char-img4.ab3818fb68fe4a784d60.png",
     "static/media/char-img1.png": "./static/media/char-img1.1a2b9f62cf7d48f14d5c.png",
@@ -13,7 +13,7 @@
     "static/media/News3.jpg": "./static/media/News3.41627feb28730cb20bad.jpg",
     "static/media/intro_slide1.jpg": "./static/media/intro_slide1.3ca472b10170fe4752b9.jpg",
     "static/media/slidebg2.jpg": "./static/media/slidebg2.9d397ba410604fe27d42.jpg",
-    "static/media/history.jpg": "./static/media/history.e578877c668eb594c21f.jpg",
+    "static/media/history.jpg": "./static/media/history.557ba790645385810f91.jpg",
     "static/media/channel_main.jpg": "./static/media/channel_main.d0ff0ec51db9176afccb.jpg",
     "static/media/intro_slide10.jpg": "./static/media/intro_slide10.05d1465d217d80fdf128.jpg",
     "static/media/OurSpace.jpg": "./static/media/OurSpace.e8eb0f8cf3d036345fc4.jpg",
@@ -35,7 +35,7 @@
     "static/media/hoem_slide1.jpg": "./static/media/hoem_slide1.94f5e3a8d784f19f59b9.jpg",
     "static/media/hoem_slide3.jpg": "./static/media/hoem_slide3.fda8610eb842e0113aae.jpg",
     "static/media/hoem_slide2.jpg": "./static/media/hoem_slide2.99c420e439c7612314b8.jpg",
-    "static/media/LastFly.jpg": "./static/media/LastFly.455de83b75186753231c.jpg",
+    "static/media/LastFly.jpg": "./static/media/LastFly.f9ddbfd15435d3202feb.jpg",
     "static/media/news_bg.jpg": "./static/media/news_bg.34b7d94a0a76be1b9422.jpg",
     "static/media/archive_bg.jpg": "./static/media/archive_bg.83ce92c595a636a05254.jpg",
     "static/media/intro_slide9.jpg": "./static/media/intro_slide9.2507cb7ad2b55557920a.jpg",
@@ -87,6 +87,8 @@
     "static/media/ele_hydro.png": "./static/media/ele_hydro.5bf118356bee1782c026.png",
     "static/media/ps.png": "./static/media/ps.8569bb62bb47bd1b23e5.png",
     "static/media/ele_elec.png": "./static/media/ele_elec.c7c9703909a5f1f8c435.png",
+    "static/media/insquare_logo.png": "./static/media/insquare_logo.1c5581ab94eccab46a9d.png",
+    "static/media/PH.jpg": "./static/media/PH.b971d84ccaf8d7748c09.jpg",
     "static/media/channel_img6.jpg": "./static/media/channel_img6.0d4af4d5465a01e91ce3.jpg",
     "static/media/NGlogo_b.png": "./static/media/NGlogo_b.f11f23b3409f37339326.png",
     "static/media/NGlogo.png": "./static/media/NGlogo.17bef04dc6153a532fd1.png",
@@ -97,11 +99,11 @@
     "static/media/board_talk.jpg": "./static/media/board_talk.349620b5d1cf24327973.jpg",
     "static/media/youtube.png": "./static/media/youtube.528046063b19fbbb3767.png",
     "index.html": "./index.html",
-    "main.6cd6103a.css.map": "./static/css/main.6cd6103a.css.map",
-    "main.6566d5ca.js.map": "./static/js/main.6566d5ca.js.map"
+    "main.cbd4fbdd.css.map": "./static/css/main.cbd4fbdd.css.map",
+    "main.943ea765.js.map": "./static/js/main.943ea765.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cd6103a.css",
-    "static/js/main.6566d5ca.js"
+    "static/css/main.cbd4fbdd.css",
+    "static/js/main.943ea765.js"
   ]
 }

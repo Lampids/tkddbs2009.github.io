@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.89b7b996.css",
+    "main.css": "./static/css/main.e5bed174.css",
     "main.js": "./static/js/main.4e0766dd.js",
     "static/media/char-img2.png": "./static/media/char-img2.b7e8c0e4b3ccf3a43136.png",
     "static/media/char-img4.png": "./static/media/char-img4.ab3818fb68fe4a784d60.png",
@@ -51,7 +51,7 @@
     "static/media/event-name1.png": "./static/media/event-name1.7bd389676ee0c2eb451c.png",
     "static/media/hoem_slide5.jpg": "./static/media/hoem_slide5.e5f488fd485c2ebab55f.jpg",
     "static/media/jq.png": "./static/media/jq.bc29175c940824a4f20b.png",
-    "static/media/banner_img.jpg": "./static/media/banner_img.10d7a0b1f315370eca8b.jpg",
+    "static/media/banner.jpg": "./static/media/banner.10d7a0b1f315370eca8b.jpg",
     "static/media/char-name2.png": "./static/media/char-name2.423dab00e6e209b3fdee.png",
     "static/media/intro_slide5.jpg": "./static/media/intro_slide5.f1a8205f5b4ce051c449.jpg",
     "static/media/sale_product1.jpg": "./static/media/sale_product1.d744b8d89c648e814a90.jpg",
@@ -133,11 +133,11 @@
     "static/media/board_talk.jpg": "./static/media/board_talk.349620b5d1cf24327973.jpg",
     "static/media/youtube.png": "./static/media/youtube.528046063b19fbbb3767.png",
     "index.html": "./index.html",
-    "main.89b7b996.css.map": "./static/css/main.89b7b996.css.map",
+    "main.e5bed174.css.map": "./static/css/main.e5bed174.css.map",
     "main.4e0766dd.js.map": "./static/js/main.4e0766dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.89b7b996.css",
+    "static/css/main.e5bed174.css",
     "static/js/main.4e0766dd.js"
   ]
 }
